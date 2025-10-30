@@ -29,8 +29,8 @@ A simple **Discord bot** that streams live Singapore radio stations into your di
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/discord-radio-bot.git
-cd discord-radio-bot
+git clone https://github.com/jhhspace/mediacorp-radio-player.git
+cd mediacorp-radio-player
 ```
 
 ### 2️⃣ Create and activate a virtual environment (optional but recommended)
