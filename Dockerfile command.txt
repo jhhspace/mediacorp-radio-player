@@ -1,0 +1,1 @@
+docker run -e DISCORD_TOKEN="Bot token here" --name mediacorp-radio-bot mediacorp-radio
