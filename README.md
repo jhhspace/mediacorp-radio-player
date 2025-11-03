@@ -81,6 +81,7 @@ In Discord:
 !cmds                # Show help
 !play <station>      # Play a station (e.g. !play yes933)
 !stop                # Stop playback and leave voice channel
+!np                  # Gives you the current music being played in the radio with a spotify link to it
 ```
 
 ### 🧠 Notes
